@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://jhankbass.netlify.app/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/hero-1400.webp</image:loc></image:image>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/retrato-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/contrabajo-1200.webp</image:loc></image:image>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/tarima-roja-1000.webp</image:loc></image:image>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/tarima-verde-1000.webp</image:loc></image:image>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/tarima-azul-1000.webp</image:loc></image:image>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/mural-1000.webp</image:loc></image:image>
+    <image:image><image:loc>https://jhankbass.netlify.app/img/estudio-720.webp</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://jhankbass.netlify.app/img/poster-show-bogota.webp</video:thumbnail_loc>
+      <video:title>Show en Top Show Colombo, Bogotá, con Asael Cuesta</video:title>
+      <video:description>Jhankarlo Bermúdez en el bajo, en vivo con Asael Cuesta y su banda en Bogotá.</video:description>
+      <video:content_loc>https://jhankbass.netlify.app/video/show-bogota.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jhankbass.netlify.app/img/poster-san-juan-sin-ti.webp</video:thumbnail_loc>
+      <video:title>San Juan Sin Ti, de Luis Enrique: cover de bajo</video:title>
+      <video:description>Jhankarlo Bermúdez toca la línea de bajo de San Juan Sin Ti en su bajo de cinco cuerdas.</video:description>
+      <video:content_loc>https://jhankbass.netlify.app/video/san-juan-sin-ti.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jhankbass.netlify.app/img/poster-como-si-nada.webp</video:thumbnail_loc>
+      <video:title>Como si nada, de Camilo Azuquita: cover de bajo</video:title>
+      <video:description>Cover de bajo de salsa de Jhankarlo Bermúdez con un Sire Marcus Miller V7.</video:description>
+      <video:content_loc>https://jhankbass.netlify.app/video/como-si-nada.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jhankbass.netlify.app/img/poster-insensata.webp</video:thumbnail_loc>
+      <video:title>Insensata, de Nathy Peluso: cover de bajo</video:title>
+      <video:description>Jhankarlo Bermúdez toca Insensata en el bajo.</video:description>
+      <video:content_loc>https://jhankbass.netlify.app/video/insensata.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jhankbass.netlify.app/img/poster-petronio.webp</video:thumbnail_loc>
+      <video:title>Contrabajo en el Festival Petronio Álvarez</video:title>
+      <video:description>Jhankarlo Bermúdez con el contrabajo en el Festival Petronio Álvarez, Cali.</video:description>
+      <video:content_loc>https://jhankbass.netlify.app/video/petronio.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://jhankbass.netlify.app/img/poster-asael-cuesta.webp</video:thumbnail_loc>
+      <video:title>Tarima con Asael Cuesta</video:title>
+      <video:description>Fragmento de tarima del show de Asael Cuesta con Jhankarlo Bermúdez en el bajo.</video:description>
+      <video:content_loc>https://jhankbass.netlify.app/video/asael-cuesta.mp4</video:content_loc>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+</urlset>
