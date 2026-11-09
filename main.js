@@ -280,6 +280,16 @@
   form.addEventListener('submit', (e) => { e.preventDefault(); window.open(waLink(buildMsg()), '_blank', 'noopener'); });
   buildMsg();
 
+  // ---------- Reserve room for the tallest hero slide ----------
+  const slideBox = document.querySelector('.hero__slides');
+  const fitSlides = () => {
+    slideBox.style.minHeight = '';
+    const tallest = Math.max(...slides.map((sl) => sl.scrollHeight));
+    slideBox.style.minHeight = `${tallest}px`;
+  };
+  (document.fonts?.ready || Promise.resolve()).then(fitSlides);
+  window.addEventListener('resize', fitSlides);
+
   // ---------- Fit the footer wordmark ----------
   const fitAll = () => document.querySelectorAll('[data-fit]').forEach((el) => {
     const box = el.parentElement;
